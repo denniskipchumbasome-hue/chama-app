@@ -2,7 +2,7 @@ name: chama_app
 description: Chama management app for self-help groups in Kenya
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: '>=3.7.0 <4.0.0'  # Updated to match Flutter 3.32.0
 
 dependencies:
   flutter:
@@ -18,6 +18,9 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   file_picker: ^8.1.3
+
+dependency_overrides:
+  material_color_utilities: ^0.11.1  # Fixes transitive dependency conflict
 
 flutter:
   generate: true
