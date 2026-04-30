@@ -1,0 +1,20 @@
+{
+  "appTitle": "Programu ya Chama",
+  "dashboard": "Ukumbi Mkuu",
+  "members": "Wanachama",
+  "contributions": "Michango",
+  "loans": "Mikopo",
+  "finesWelfare": "Faini na Mfuko wa Ustawi",
+  "monthEnd": "Mwisho wa Mwezi",
+  "yearEnd": "Mwisho wa Mwaka",
+  "reports": "Ripoti",
+  "settings": "Mipangilio",
+  "activityLog": "Kumbukumbu ya Matendo",
+  "userManual": "Mwongozo wa Matumizi",
+  "monthlyContribution": "Mchango wa Kila Mwezi",
+  "amountKES": "Kiasi (KES)",
+  "save": "Hifadhi",
+  "runMonthEnd": "TEKELEZA MWISHO WA MWEZI",
+  "backupDatabase": "Hifadhi Nakala ya Hifadhidata",
+  "restoreDatabase": "Rejesha Hifadhidata kutoka Nakala"
+}
