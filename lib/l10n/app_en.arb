@@ -1,0 +1,20 @@
+{
+  "appTitle": "Chama App",
+  "dashboard": "Dashboard",
+  "members": "Members",
+  "contributions": "Contributions",
+  "loans": "Loans",
+  "finesWelfare": "Fines & Welfare",
+  "monthEnd": "Month End",
+  "yearEnd": "Year End",
+  "reports": "Reports",
+  "settings": "Settings",
+  "activityLog": "Activity Log",
+  "userManual": "User Manual",
+  "monthlyContribution": "Monthly Contribution",
+  "amountKES": "Amount (KES)",
+  "save": "Save",
+  "runMonthEnd": "RUN MONTH END",
+  "backupDatabase": "Backup Database File",
+  "restoreDatabase": "Restore Database from Backup"
+}
