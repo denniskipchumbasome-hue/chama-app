@@ -14,7 +14,7 @@ dependencies:
   intl: ^0.19.0
   excel: ^4.0.4
   local_auth: ^2.2.0
-  sms_maintained: ^2.1.2
+  telephony: ^0.4.1
   flutter_localizations:
     sdk: flutter
   file_picker: ^6.1.1
