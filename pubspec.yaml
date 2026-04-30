@@ -1,0 +1,24 @@
+name: chama_app
+description: Chama management app for self-help groups in Kenya
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.3
+  path: ^1.9.0
+  pdf: ^3.10.8
+  share_plus: ^7.2.2
+  intl: ^0.19.0
+  excel: ^4.0.4
+  local_auth: ^2.2.0
+  sms_maintained: ^2.1.2
+  flutter_localizations:
+    sdk: flutter
+  file_picker: ^6.1.1
+
+flutter:
+  generate: true
+  uses-material-design: true
